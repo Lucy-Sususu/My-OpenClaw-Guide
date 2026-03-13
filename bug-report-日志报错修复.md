@@ -41,8 +41,7 @@
       "edit",
       "exec",
       "web_search",
-      "web_fetch"
-      ← 删除 "apply_patch" 和 "image"
+      "web_fetch"     ← 删除 "apply_patch" 和 "image"
     ]
   }
 }
